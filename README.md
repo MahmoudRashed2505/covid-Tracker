@@ -1,7 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 
-##You Can check the final project by following the Link bellow
+## You Can check the final project by following the Link bellow
 Open [https://covid19-9e089.web.app/](https://covid19-9e089.web.app/) to view it in the browser
 
 
