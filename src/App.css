@@ -2,12 +2,20 @@
   margin: 0;
 }
 
+.app__header > h1 {
+  color: #fc3c3c;
+  font-size: 2rem;
+}
+
 .app__header{
   display: flex;
   justify-content: space-between;
   align-items: center;
   margin-bottom: 20px;
 }
+  .app__dropdown {
+    background-color: white;
+  }
 
 body {
   background-color: #f5f6fa;
@@ -36,5 +44,12 @@ body {
 
 .worldCases {
   padding: 20px;
+}
+
+.app__footer {
+  padding-top: 50px;
+  align-content: center;
+  display: flex;
+  justify-content: center;
 }
 
